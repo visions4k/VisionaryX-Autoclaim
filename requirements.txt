@@ -1,0 +1,6 @@
+aiohttp==3.7.4.post0
+aiosonic==0.17.0
+colorama==0.4.6
+discord.py-self
+pyfiglet==0.8.post1
+Requests==2.31.0
