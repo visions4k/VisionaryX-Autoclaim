@@ -28,6 +28,9 @@ Now to setup the account config, you want to put your cookies into cookies.txt, 
 To start the autoclaimer, run start.py (python start.py) - it will then load and attempt to connect to the discord token. You will then be prompted with a screen to choose what channel you want to connect to, there will be a option to pick all channels. This prompt will not show up if you have autoGetAllConfigChannels enabled, as it will just connect to all of the channels on startup. 
 Once running, you can use >>help (or whatever prefix you set) to see the avaliable commands, you can basically control everything via commands - this is meant to be ran 24/7, so it is very user friendly. 
 
+# Heads-up
+Use cookies that are created on the same IP address that you are running this tool from, this is to prevent captchas. - If you ever start randomly getting captchas (never happened to me), then simply change the browser cookie to an updated one, in 
+
 # Support
-My discord server is https://discord.gg/c9xyX3H93F - this tool will probably never be updated, as I am no longer continuing roblox group stuff. Feel free to join the server just incase there is updates, but please do not DM me for support on this tool. 
+My discord server is https://discord.gg/c9xyX3H93F - this tool will probably never be updated, as I am no longer continuing roblox group stuff. Feel free to join the server just incase there is updates, but please do not DM me for support on this tool. source/utils/configloader.py
 
