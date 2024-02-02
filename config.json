@@ -1,0 +1,35 @@
+{
+    "Config": {
+        "selfbotToken": "",
+        "selfbotPrefix": ">>",
+        "webhookURL": "https://discord.com/api/webhooks/",
+        "authedUsers": {
+            "1": "0000"
+        }
+    },
+    "Autoclaimer": {
+        "addedDelay": "0",
+        "detections": false,
+        "enableRetry": true,
+        "enableAutoLeave": true,
+        "claimLogging": true,
+        "autoShout": {
+            "isEnabled": false,
+            "shoutMessage": ""
+        },
+        "autoGetAllConfigChannels": true,
+        "finderChannelsIDs": {
+            "1": "000",
+            "2": "000",
+            "3": "000"
+        }
+    },
+    "AutoSwitch": {
+        "isEnabled": true,
+        "switchAfter": 11,
+        "switchLogging": true,
+        "accountConfig": {
+
+        }
+    }
+}
